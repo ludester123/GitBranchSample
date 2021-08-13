@@ -8,6 +8,7 @@ public class maniApp {
 		//這是一個加法運算
 		Math cMath = new Math();
 		System.out.println(cMath.add(10, 5));
+		System.out.println("again");
 	}
 
 }
