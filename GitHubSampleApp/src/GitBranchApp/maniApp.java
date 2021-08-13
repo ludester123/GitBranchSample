@@ -9,6 +9,7 @@ public class maniApp {
 		Math cMath = new Math();
 		System.out.println(cMath.add(10, 5));
 		System.out.println("again");
+		System.out.println("merge");
 	}
 
 }
