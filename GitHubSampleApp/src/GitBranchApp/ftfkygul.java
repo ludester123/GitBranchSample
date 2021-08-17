@@ -1,8 +1,10 @@
 package GitBranchApp;
 
 public class ftfkygul {
-private void sysout() {
+public static void main(String[] args) {
+	System.out.println();
+}
 	
 
 }
-}
+
